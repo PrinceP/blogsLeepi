@@ -1,0 +1,47 @@
+site_name: Blogs for Leepi (लिपि)
+copyright: Copyright &copy; 2022 Leepi
+
+nav:
+  - 🏠 Home:
+    - index.md
+  - 🧬 Tech:
+    - tech/index.md
+    - On-device classifier for single letter hand signs : tech/models/index.md
+  - ☀️ Ekatra:
+    - ekatra/index.md
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/leepiapp
+      name: Twitter
+    - icon: fontawesome/brands/github
+      link: https://github.com/princep
+      name: Github
+  version:
+    default: stable
+    provider: mike
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  features:
+  - navigation.indexes
+  - navigation.tabs
+  - search.highlight
+  - search.share
+  - content.code.annotate
+  - content.tabs.link
+
+  palette:
+    primary: indigo
+  font:
+    text: Open Sans
+    code: Noto Sans
+  
