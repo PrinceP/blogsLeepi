@@ -1,3 +1,3 @@
-# #AndroidDevChallenge
+# Blog
 
-https://github.com/sandoche/Mobile-app-landingpage-template
+https://princep.github.io/blogsLeepi/
