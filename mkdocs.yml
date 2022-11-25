@@ -6,7 +6,9 @@ nav:
     - index.md
   - 🧬 Tech:
     - tech/index.md
-    - On-device classifier for single letter hand signs : tech/models/index.md
+    - Hand Sign Classifiers : tech/classifiers/index.md
+    - Hand Detectors : tech/detectors/index.md
+    
   - ☀️ Ekatra:
     - ekatra/index.md
 

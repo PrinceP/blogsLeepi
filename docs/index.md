@@ -46,11 +46,13 @@ Leepi( लिपि ) has been released as a part of winning Google Android Deve
 Google has been promoting this application by showcasing it across the world. Various reviewers have received customized package and Android Developer magazine as a part of promotion. 
 
 An online landing page is also made for the same. Here are the related articles to it -
+---
 
+[![impact1](assets/impact1.jpg)](https://developer.android.com/helpful-innovation#leepi-section)
+---
 
+[![impact2](assets/impact2.jpg)](https://www.blog.google/products/android/developer-challenge-winners/)
+---
 
-[https://developer.android.com/helpful-innovation#leepi-section](https://developer.android.com/helpful-innovation#leepi-section)
-
-[https://www.blog.google/products/android/developer-challenge-winners/](https://www.blog.google/products/android/developer-challenge-winners/)
-
-[https://android-developers.googleblog.com/2020/06/dev-challenge-winners.html](https://android-developers.googleblog.com/2020/06/dev-challenge-winners.html)
+[![impact3](assets/impact3.jpg)](https://android-developers.googleblog.com/2020/06/dev-challenge-winners.html)
+---
